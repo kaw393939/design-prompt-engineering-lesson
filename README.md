@@ -1,3 +1,27 @@
+# Design Prompt Engineering Lesson
+
+<!-- portfolio-curation -->
+## Portfolio Overview
+Class assignment that teaches students to use AI collaboration for design curation and writing practice.
+
+**Live site:** https://kaw393939.github.io/design-prompt-engineering-lesson/
+
+## What This Demonstrates
+- Prompt engineering pedagogy
+- design thinking
+- lightweight publishing
+
+## Stack
+HTML, GitHub Pages
+
+## Portfolio Status
+This repository is part of Keith Williams' curated public portfolio. The README has been updated to explain the project purpose, technical focus, and why the work is worth reviewing.
+<!-- /portfolio-curation -->
+
+---
+
+## Original Notes
+
 # Design Curator Cards
 
 > **You are building the workflow you'll use all semester.**
@@ -239,3 +263,4 @@ This is **Assignment 2 of 5**. Here's where you're headed:
 | 5. Personal Portfolio | Your professional site | Full autonomy — you own everything |
 
 The AGENTS.md, vocabulary lists, and verification habits you build here are the foundation for all of it.
+
